@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp>
+        <gco:Date>2023-03-27</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Major Crime Indicators</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>This dataset includes all Major Crime Indicators (MCI) occurrences by reported date and related offences from 2014 to 2022.Download DocumentationThe Major Crime Indicators categories include Assault, Break and Enter, Auto Theft, Robbery and Theft Over (Excludes Sexual Violations). This data is provided at the offence and/or victim level, therefore one occurrence number may have several rows of data associated to the various MCIs used to categorize the occurrence.The downloadable datasets display the REPORT_DATE and OCC_DATE fields in UTC timezone.This data does not include occurrences that have been deemed unfounded. The definition of unfounded according to Statistics Canada is: “It has been determined through police investigation that the offence reported did not occur, nor was it attempted” (Statistics Canada, 2020).**The dataset is intended to provide communities with information regarding public safety and awareness. The data supplied to the Toronto Police Service by the reporting parties is preliminary and may not have been fully verified at the time of publishing the dataset.   The location of crime occurrences have been deliberately offset to the nearest road intersection node to protect the privacy of parties involved in the occurrence. All location data must be considered as an approximate location of the occurrence and users are advised not to interpret any of these locations as related to a specific address or individual.NOTE: Due to the offset of occurrence location, the numbers by Division and Neighbourhood may not reflect the exact count of occurrences reported within these geographies. Therefore, the Toronto Police Service does not guarantee the accuracy, completeness, timeliness of the data and it should not be compared to any other source of crime data.By accessing these datasets, the user agrees to full acknowledgement of the Open Government Licence - Ontario.In accordance with the Municipal Freedom of Information and Protection of Privacy Act, the Toronto Police Service has taken the necessary measures to protect the privacy of individuals involved in the reported occurrences. No personal information related to any of the parties involved in the occurrence will be released as open data. ** Statistics Canada. 2020. Uniform Crime Reporting Manual. Surveys and Statistical Programs. Canadian Centre for Justice Statistics.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>This dataset includes all Major Crime Indicators (MCI) occurrences by reported date and related offences</gco:CharacterString>
+            </purpose>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>MCI</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Open Government Licence – OntarioNote: The Open Government Licence – Ontario is based on a template adopted by some Canadian governments at the federal, provincial and municipal levels.Using Information under this licenceUse of any information indicates your acceptance of the terms below.The information provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below.You are free to:Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.Where you do any of the above, you agree to the following:To acknowledge the source of the information by including any attribution statement specified by the information provider(s) and, where possible, provide a link to this licence;If the information provider does not provide a specific attribution statement, or if you are using information from several information providers and multiple attributions are not practical for your product or application, you must use the following attribution statement:Contains information licensed under the Open Government Licence – Ontario.To reproduce the information accurately.  You must not misrepresent the information or its source;To use the information in a manner that does not breach or infringe any applicable laws including, but not limited to, the Criminal Code, the Youth Criminal Justice Act, the Human Rights Code, or any Federal or Provincial Privacy Acts;  Not to merge or link the information with any other databases for the purpose of attempting to identify an individual person, business, or organization;Not to present the information in such a manner that gives the appearance that you may have received, or had access to, information held by the Toronto Police Service or the Toronto Police Services Board about any identifiable individual person, business, or organization; and,Not to disassemble, decompile, or in any way attempt to reverse engineer any software provided as part of the information;The terms of this licence are important, and if you fail to comply with any of them, the rights granted to you under this licence, or any similar licence granted by the Information Provider, will end automatically.ExemptionsThis licence does not grant you any right to use:a) Personal information;b) Information or records not accessible under the Freedom of Information and Protection of Privacy Act (Ontario);c) Information or records not accessible under the Municipal Freedom of Information and Protection of Privacy Act (Ontario);d) Third party rights the information provider is not authorized to license;e) The Toronto Police Service Image including insignias, names, crests, logos, flags, or other official symbols of the information provider; and, f) Information subject to other intellectual property rights, including patents, trade-marks, and official marks.Non-endorsementThis licence does not grant you any right to use the Information in a way that suggests any official status or that the information provider endorses you or your use of the information.No warrantyThe information is licensed &amp;quot;as is&amp;quot;, and the information provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law.The information provider is not liable for any errors or omissions in the information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.TermThis license is effective as of the date and time you access the Information and shall terminate automatically if you breach any of the terms of this licence.Governing LawThis licence is governed by the laws of the Province of Ontario and the applicable laws of Canada.Legal proceedings related to this licence may only be brought in the courts of Ontario.DefinitionsIn this licence, the terms below have the following meanings:Information: means information resources or records protected by copyright or other information or records that are offered for use under the terms of this licence.Information provider: means Her Majesty the Queen in right of Ontario.Personal information: has the meaning set out in section 2(1) of Freedom of Information and Protection of Privacy Act (Ontario).Records: has the meaning of &amp;quot;record&amp;quot; as set out in the Freedom of Information and Protection of Privacy Act (Ontario).You: means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.VersioningThis is version 1.1 of the Open Government Licence – Ontario. The information provider may make changes to the terms of this licence from time to time and issue a new version of the licence. Your use of the information will be governed by the terms of the licence in force as of the date you accessed the information.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <westBoundLongitude>
+                                <gco:Decimal>-79.89358291913355</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>-78.93736375220695</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>43.46884134594142</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>43.90544544158975</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>
